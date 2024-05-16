@@ -49,7 +49,7 @@ This project uses an in-memory database (H2). If you would like to work on the p
 
 in __application.properties__.
 
-The database url used is `jdbc:h2:mem:testdb`.
+The database url used is `jdbc:h2:mem:testdb`. 
 ## About
 
 This project was a personal project to learn more about Spring development, database management, and industry application architecture.
